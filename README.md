@@ -1,3 +1,5 @@
+migrated: https://gitlab.com/l1905/maven-business/lookio-legacy/netty-http-client
+
 Netty HTTP Client
 =================
 
